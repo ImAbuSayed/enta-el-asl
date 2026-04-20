@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور عيني في سكون الليل
+> قلبي ينادي والهوى دليل
+> أنت الأمل وأنت لي السبيل
+> روحك تلامس روحي فيميل
 > ...
 
 📄 **[View Full Lyrics →](./lyrics.txt)**
