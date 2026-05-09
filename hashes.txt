@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Enta El Asl
+
+This log tracks the cryptographic history and versioning for the song **Enta El Asl** (enta-el-asl).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T15:42:25.430071 | `v1` | `74e5410422bfff9b004432fe14971791782908caf49bca615eaaa1d1e54f1fb4` | `378f97408b0768d3427096a416efa4d7fc8106961939652427676b7d7a996b31` | `2026-05-09_enta-el-asl-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
